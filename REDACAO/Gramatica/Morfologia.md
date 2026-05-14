@@ -27,15 +27,15 @@
 * advérbio.
 
 
-
-
-
 ## Sintaxe
-
 * Estudo papel que os termos morfológicos, as palavras e expressões exercem dentro de uma oração
-
 
 
 ## Concordância nominal
 * A concordância nominal é a concordância de número e gênero entre nomes. Ela acontece entre substantivo e artigo, adjetivo, numeral, pronome adjetivo ou particípio.
+
+
+
+## Tipologia de Texto
+
 
