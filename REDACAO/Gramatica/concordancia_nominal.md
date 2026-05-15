@@ -15,3 +15,15 @@ pronome adjetivo: **aquele** leão, **aquela** leoa, **aqueles** leões, **aquel
 particípio: bolo **partido**, bolos **partidos**, torta **partida**, tortas **partidas**.
 
 
+---
+
+### Adjetivo
+Concorda com gênero e número quando se refere a um único substantivo
+
+**Os** antig**os** relatóri**os** foram revisad**os** pel**as** servidor**as** públic**as**
+
+<br>
+O Adjetivo concorda com o substantivo, se este for modificado por um artigo ou qualquer 
+outro determintivo:
+
+**Esta orgnização** é **boa** para o país
